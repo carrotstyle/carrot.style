@@ -1,2 +1,4 @@
-# carrot.style
-carrot-style main presenter
+# carrot.style 😎
+
+> Shorten your URLs nicely with carrot-style!
+
